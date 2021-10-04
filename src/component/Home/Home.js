@@ -1,8 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Row } from 'react-bootstrap';
 import Course from '../Course/Course';
-import Header from '../Header/Header';
-import Footer from '../Footer/Footer'
 
 const Home = () => {
     const [blogs, setBlogs] = useState([]);
@@ -14,7 +12,6 @@ const Home = () => {
     const courses = blogs.slice(0, 4);
     return (
         <div>
-            <Header></Header>
             <div className='my-5 text-center'>
                 <h1>Our top courses</h1>
             </div>
@@ -26,7 +23,6 @@ const Home = () => {
                     }
                 </Row>
             </div>
-            <Footer></Footer>
         </div>
     );
 };

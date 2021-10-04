@@ -1,8 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Row } from 'react-bootstrap';
 import Course from '../Course/Course';
-import Footer from '../Footer/Footer';
-import Header from '../Header/Header';
 
 const Services = () => {
     const [courses, setCourses] = useState([]);
@@ -13,9 +11,6 @@ const Services = () => {
     }, [])
     return (
         <div>
-            <div>
-                <Header></Header>
-            </div>
             <div className='text-center my-5'>
                 <h1>All our courses here. Whice one do you need?</h1>
             </div>
@@ -26,9 +21,6 @@ const Services = () => {
                         courses.map(course => <Course key={course.id} course={course}></Course>)
                     }
                 </Row>
-            </div>
-            <div>
-                <Footer></Footer>
             </div>
         </div>
     );

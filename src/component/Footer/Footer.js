@@ -3,6 +3,7 @@ import { Col, Container, Row } from 'react-bootstrap';
 import './Footer.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faAngleRight, faGraduationCap, faClock } from '@fortawesome/free-solid-svg-icons'
+import { Link } from 'react-router-dom';
 
 const element = <FontAwesomeIcon icon={faAngleRight} />
 const graduation = <FontAwesomeIcon icon={faGraduationCap} />
@@ -22,10 +23,10 @@ const Footer = () => {
                     <Col>
                         <nav className='link-decorate text-light'>
                             <h3>Main Links</h3>
-                            <a href="/home">{element} Home</a> <br />
-                            <a href="/service">{element} Service</a> <br />
-                            <a href="/about">{element} About</a> <br />
-                            <a href="/details">{element} Details</a>
+                            <Link to="/home">{element} Home</Link> <br />
+                            <Link to="/service">{element} Service</Link> <br />
+                            <Link to="/about">{element} About</Link> <br />
+                            <Link to="/support">{element} Details</Link>
                         </nav>
 
                     </Col>

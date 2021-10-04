@@ -17,7 +17,7 @@ const Header = () => {
                                 <Link to="/home" className='text-light'>Home</Link>
                                 <Link to="/service" className='text-light'>Services</Link>
                                 <Link to="/about" className='text-light'>About</Link>
-                                <Link href="#home" className='text-light'>Details</Link>
+                                <Link to="/support" className='text-light'>Support</Link>
                             </Nav>
                         </Navbar.Collapse>
                     </Container>
