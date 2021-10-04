@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Row } from 'react-bootstrap';
 import Course from '../Course/Course';
+import Footer from '../Footer/Footer';
 
 const Home = () => {
     const [blogs, setBlogs] = useState([]);
@@ -22,6 +23,9 @@ const Home = () => {
                         courses.map(course => <Course key={course.id} course={course}></Course>)
                     }
                 </Row>
+            </div>
+            <div>
+                <Footer></Footer>
             </div>
         </div>
     );

@@ -7,7 +7,6 @@ import './Header.css';
 const Header = () => {
     return (
         <div className='header-section p-5'>
-            <h1 className='text-center text-light'>Mokorom Horun Technical Institute.</h1>
             <div>
                 <Navbar expand="lg">
                     <Container>
@@ -23,6 +22,9 @@ const Header = () => {
                     </Container>
                 </Navbar>
             </div>
+            <div className=''>
+                <h1 className='text-center text-light'>Mokorom Horun Technical Institute.</h1>
+            </div>
             <div>
                 <Container className='banner'>
                     <Row>
@@ -37,7 +39,7 @@ const Header = () => {
                         </Col>
                     </Row>
                     <div className='text-center mt-5'>
-                        <Button variant='danger'>Details</Button>
+                        <Link to='/service'><Button variant='danger'>Service</Button></Link>
                     </div>
                 </Container>
             </div>

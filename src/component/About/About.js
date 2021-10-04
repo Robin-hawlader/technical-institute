@@ -5,6 +5,7 @@ import image from '../../images/How-can-education-improve-the-sustainable-develo
 import contact from '../../images/contact-page-banner.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faPhone, faVoicemail } from '@fortawesome/free-solid-svg-icons'
+import Footer from '../Footer/Footer';
 
 const phone = <FontAwesomeIcon icon={faPhone} />
 const email = <FontAwesomeIcon icon={faVoicemail} />
@@ -41,6 +42,9 @@ const About = () => {
                         </Col>
                     </Row>
                 </Container>
+            </div>
+            <div>
+                <Footer></Footer>
             </div>
         </div>
     );
