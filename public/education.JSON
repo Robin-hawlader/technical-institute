@@ -8,79 +8,72 @@
     },
     {
         "id": 2,
-        "Service_name": "Basic-computer",
-        "fee": 50,
+        "Service_name": "Programing",
+        "fee": 60,
         "description": "This course will help you build your career. So take the course quickly",
-        "thumbnail": "https://nebulas-it.com/wp-content/uploads/2017/03/1.png"
+        "thumbnail": "https://static.javatpoint.com/computer/images/what-is-computer-programming.png"
     },
     {
         "id": 3,
-        "Service_name": "Basic-computer",
+        "Service_name": "Elictrical Mecanic",
         "fee": 50,
         "description": "This course will help you build your career. So take the course quickly",
-        "thumbnail": "https://nebulas-it.com/wp-content/uploads/2017/03/1.png"
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8TWWbWsBQ8WADEZYm7-TTQJZOyiy1S1kUutj94YeVHnsfjfd2mzb6d3fk_d1m0Fv_TXA&usqp=CAU"
     },
     {
         "id": 4,
-        "Service_name": "Basic-computer",
+        "Service_name": "Basic Textile Engineer",
         "fee": 50,
         "description": "This course will help you build your career. So take the course quickly",
-        "thumbnail": "https://nebulas-it.com/wp-content/uploads/2017/03/1.png"
+        "thumbnail": "https://stepupstudent.com/wp-content/uploads/2020/10/ea10f41786f91e7eecacd36e9b31174a.jpg"
     },
     {
         "id": 5,
-        "Service_name": "Basic-computer",
+        "Service_name": "Basic-Javascript",
         "fee": 50,
         "description": "This course will help you build your career. So take the course quickly",
-        "thumbnail": "https://nebulas-it.com/wp-content/uploads/2017/03/1.png"
+        "thumbnail": "https://miro.medium.com/max/2000/1*uZ094Kxwv_qLih3tn9AZ6Q.jpeg"
     },
     {
         "id": 6,
-        "Service_name": "Basic-computer",
+        "Service_name": "Ms-excel",
         "fee": 50,
         "description": "This course will help you build your career. So take the course quickly",
-        "thumbnail": "https://nebulas-it.com/wp-content/uploads/2017/03/1.png"
+        "thumbnail": "https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Excel-Logo.png"
     },
     {
         "id": 7,
-        "Service_name": "Basic-computer",
+        "Service_name": "Photoshop-designer",
         "fee": 50,
         "description": "This course will help you build your career. So take the course quickly",
-        "thumbnail": "https://nebulas-it.com/wp-content/uploads/2017/03/1.png"
+        "thumbnail": "https://sm.pcmag.com/t/pcmag_au/review/a/adobe-phot/adobe-photoshop-for-ipad_5htm.1920.jpg"
     },
     {
         "id": 8,
-        "Service_name": "Basic-computer",
+        "Service_name": "Power-point",
         "fee": 50,
         "description": "This course will help you build your career. So take the course quickly",
-        "thumbnail": "https://nebulas-it.com/wp-content/uploads/2017/03/1.png"
+        "thumbnail": "https://www.logo.wine/a/logo/Microsoft_PowerPoint/Microsoft_PowerPoint-Logo.wine.svg"
     },
     {
         "id": 9,
-        "Service_name": "Basic-computer",
+        "Service_name": "Plumber-mecanical",
         "fee": 50,
         "description": "This course will help you build your career. So take the course quickly",
-        "thumbnail": "https://nebulas-it.com/wp-content/uploads/2017/03/1.png"
+        "thumbnail": "https://betterhousekeeper.com/wp-content/uploads/2019/03/great-plumbing-local-service.jpg"
     },
     {
         "id": 10,
-        "Service_name": "Basic-computer",
+        "Service_name": "Financial-management",
         "fee": 50,
         "description": "This course will help you build your career. So take the course quickly",
-        "thumbnail": "https://nebulas-it.com/wp-content/uploads/2017/03/1.png"
+        "thumbnail": "https://wall-street.com/wp-content/uploads/2019/05/small-biz.jpg"
     },
     {
         "id": 11,
-        "Service_name": "Basic-computer",
+        "Service_name": "Driving",
         "fee": 50,
         "description": "This course will help you build your career. So take the course quickly",
-        "thumbnail": "https://nebulas-it.com/wp-content/uploads/2017/03/1.png"
-    },
-    {
-        "id": 12,
-        "Service_name": "Basic-computer",
-        "fee": 50,
-        "description": "This course will help you build your career. So take the course quickly",
-        "thumbnail": "https://nebulas-it.com/wp-content/uploads/2017/03/1.png"
+        "thumbnail": "https://cdn.aarp.net/content/dam/aarp/auto/2021/03/1140-man-driving-a-car.imgcache.revf9c4f44f3b585ea7b920f79e4f144bd6.jpg"
     }
 ]

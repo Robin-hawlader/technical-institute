@@ -1,7 +1,11 @@
 .header-section{
    background-color: rgb(60, 96, 110);
-    height: 500px;
+    height: 600px;
 }
 .banner{
     margin-top: 15%;
+}
+nav a{
+    text-decoration: none;
+    margin-right: 10px;
 }

@@ -1,21 +1,23 @@
 
 import React from 'react';
 import { Button, Col, Container, Nav, Navbar, Row } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 import './Header.css';
 
 const Header = () => {
     return (
-        <div className='header-section'>
+        <div className='header-section p-5'>
+            <h1 className='text-center text-light'>Mokorom Horun Technical Institute.</h1>
             <div>
                 <Navbar expand="lg">
                     <Container>
                         <Navbar.Toggle aria-controls="basic-navbar-nav" />
                         <Navbar.Collapse id="basic-navbar-nav">
                             <Nav className="ms-auto">
-                                <Nav.Link href="#home" className='text-light'>Home</Nav.Link>
-                                <Nav.Link href="#link" className='text-light'>Service</Nav.Link>
-                                <Nav.Link href="#link" className='text-light'>About</Nav.Link>
-                                <Nav.Link href="#link" className='text-light'>Service</Nav.Link>
+                                <Link to="/home" className='text-light'>Home</Link>
+                                <Link to="/service" className='text-light'>Services</Link>
+                                <Link to="/about" className='text-light'>About</Link>
+                                <Link href="#home" className='text-light'>Details</Link>
                             </Nav>
                         </Navbar.Collapse>
                     </Container>
