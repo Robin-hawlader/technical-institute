@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "Service_name": "Basic-computer",
+        "fee": 50,
+        "description": "This course will help you build your career. So take the course quickly",
+        "thumbnail": "https://nebulas-it.com/wp-content/uploads/2017/03/1.png"
+    },
+    {
+        "id": 2,
+        "Service_name": "Basic-computer",
+        "fee": 50,
+        "description": "This course will help you build your career. So take the course quickly",
+        "thumbnail": "https://nebulas-it.com/wp-content/uploads/2017/03/1.png"
+    },
+    {
+        "id": 3,
+        "Service_name": "Basic-computer",
+        "fee": 50,
+        "description": "This course will help you build your career. So take the course quickly",
+        "thumbnail": "https://nebulas-it.com/wp-content/uploads/2017/03/1.png"
+    },
+    {
+        "id": 4,
+        "Service_name": "Basic-computer",
+        "fee": 50,
+        "description": "This course will help you build your career. So take the course quickly",
+        "thumbnail": "https://nebulas-it.com/wp-content/uploads/2017/03/1.png"
+    },
+    {
+        "id": 5,
+        "Service_name": "Basic-computer",
+        "fee": 50,
+        "description": "This course will help you build your career. So take the course quickly",
+        "thumbnail": "https://nebulas-it.com/wp-content/uploads/2017/03/1.png"
+    },
+    {
+        "id": 6,
+        "Service_name": "Basic-computer",
+        "fee": 50,
+        "description": "This course will help you build your career. So take the course quickly",
+        "thumbnail": "https://nebulas-it.com/wp-content/uploads/2017/03/1.png"
+    },
+    {
+        "id": 7,
+        "Service_name": "Basic-computer",
+        "fee": 50,
+        "description": "This course will help you build your career. So take the course quickly",
+        "thumbnail": "https://nebulas-it.com/wp-content/uploads/2017/03/1.png"
+    },
+    {
+        "id": 8,
+        "Service_name": "Basic-computer",
+        "fee": 50,
+        "description": "This course will help you build your career. So take the course quickly",
+        "thumbnail": "https://nebulas-it.com/wp-content/uploads/2017/03/1.png"
+    },
+    {
+        "id": 9,
+        "Service_name": "Basic-computer",
+        "fee": 50,
+        "description": "This course will help you build your career. So take the course quickly",
+        "thumbnail": "https://nebulas-it.com/wp-content/uploads/2017/03/1.png"
+    },
+    {
+        "id": 10,
+        "Service_name": "Basic-computer",
+        "fee": 50,
+        "description": "This course will help you build your career. So take the course quickly",
+        "thumbnail": "https://nebulas-it.com/wp-content/uploads/2017/03/1.png"
+    },
+    {
+        "id": 11,
+        "Service_name": "Basic-computer",
+        "fee": 50,
+        "description": "This course will help you build your career. So take the course quickly",
+        "thumbnail": "https://nebulas-it.com/wp-content/uploads/2017/03/1.png"
+    },
+    {
+        "id": 12,
+        "Service_name": "Basic-computer",
+        "fee": 50,
+        "description": "This course will help you build your career. So take the course quickly",
+        "thumbnail": "https://nebulas-it.com/wp-content/uploads/2017/03/1.png"
+    }
+]
